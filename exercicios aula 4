@@ -1,0 +1,28 @@
+
+  #  **Exercício 1:** Escreva um programa que use a função `range()` para gerar os números pares de 2 a 20 e, em seguida, imprima cada número. -->
+
+for n in range(2,21,2):
+  print(n)
+
+# **Exercício 2:** Escreva um programa que use a função `range()` para gerar os múltiplos de 5 em 5 a 50 e, em seguida, calcule e imprima a soma desses múltiplos. -->
+
+y = range(5,51,5)
+soma = sum(y)
+print(soma)
+
+#  **Exercício 3:** Escreva um programa que use a função `type()` para verificar o tipo de uma variável. --> -->
+
+var = 15.6
+print(type(var))
+
+# **Exercício 4:** Escreva um programa que use a função `print()` para imprimir uma mensagem de saudação personalizada, incluindo o nome do usuário. -->
+
+ola = input('Digite seu nome: ')
+print(f'Ola {ola}, espero que tenha um otimo dia')
+
+# **Exercício 5:** Escreva um programa que use a função `range()` para gerar os números ímpares de 1 a 10 e, em seguida, calcule e imprima a média desses números.z -->
+
+n = range(1,11,2)
+soma = sum(n)
+med = soma/5
+print(med)

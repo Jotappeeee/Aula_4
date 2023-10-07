@@ -1,0 +1,40 @@
+# cpf= '23548984'
+# n= int(cpf)
+# print(n)
+
+
+# # uma lista é algo que se pode mudar
+# print()
+# cid = 'Guarulhos'
+# print(cid, '\n')
+# frag = list(cid)
+# print(frag)
+
+# #a tupla é algo imutavel, fica pelo codigo todo
+# tr = tuple(frag)
+# print(tr)
+
+# for n in range(1,11,3):
+#    print(n)
+
+   #------------------------------------------------------------------
+
+# palavra = 'Python'
+# for l in palavra:
+#    input(l)
+
+#--------------------------------------
+
+# list = ['maça', 'banana', 'uva' , 'cereja', 4]
+# for i in list:
+#  print(i)
+
+#-------------------------------------------
+
+dado = {'nome' : "Jão",
+    'sexo' : 'Masculino',
+    'idade' : '20'
+}
+
+for l1, l2 in dado.items():
+  print(f'{l1} : {l2}')
