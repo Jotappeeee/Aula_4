@@ -1,6 +1,6 @@
 Aula 4🚀
 
-Nessa aula aprendemos sobre variaveis, if e else, condicionais, chave {}
+Nessa aula aprendemos sobre redme, sum, lista, chave {}
 
 🔌Como fazer funcionar na sua máquina:
 
